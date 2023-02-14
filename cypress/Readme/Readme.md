@@ -1,0 +1,1 @@
+Está automação consiste em smoke teste.
